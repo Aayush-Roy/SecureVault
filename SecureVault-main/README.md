@@ -99,8 +99,3 @@ A full-stack password manager built with Next.js, MongoDB, and client-side encry
 └── types/            # TypeScript types
 ```
 
-## Notes
-
-- This app uses MongoDB instead of the default Supabase configuration
-- All sensitive data is encrypted client-side before sending to the server
-- The clipboard auto-clears 15 seconds after copying passwords
